@@ -2,7 +2,7 @@ Nama: Andika Hiro Pratama
 NIM: 1910512004
 Email: hiroandika@gmail.com
 
-#Deskripsi
+# Deskripsi
 Program ini menimplementasikan materi Binary Search Tree dan dibuat untuk memenuhi project akhir daripada pelajaran Praktikum 
 Struktur Data dan Algoritma
 
